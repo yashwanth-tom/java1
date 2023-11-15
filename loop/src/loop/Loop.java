@@ -32,6 +32,7 @@ public class Loop {
         s+=a[i];
     }
    System.out.println("Total = "+s);
+    System.out.println(s)
     
     
     
